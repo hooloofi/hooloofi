@@ -14,12 +14,9 @@ Welcome to my professional portfolio! Here, you’ll find a collection of projec
 ### 1. **Sales Forecasting with Python**
 *Description*: Using Python to forecast sales based on historical data.
 - Tools: Pandas, NumPy, Matplotlib
-- [Project Link](link-to-project)
 
 ### 2. **Financial Data Analysis**
 *Description*: Analysis of financial statements to derive key metrics and trends.
 - Tools: Excel, Python
-- [Project Link](link-to-project)
 
-### 3. **Customer Segmentation with K-means Clustering**
-*De
+
