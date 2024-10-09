@@ -5,7 +5,7 @@ Welcome to my professional portfolio! Here, you’ll find a collection of projec
 👋 Hi! I'm **Ayoub Haji Hashemi**, a data analysis student at Hyper Island with 5 years of accounting experience. My goal is to merge my financial background with data science to uncover valuable insights.
 
 - 📍 Based in Stockholm, Sweden
-- 🔗 [LinkedIn Profile](https://www.linkedin.com/in/ayoub-haji-hashemi)
+- 🔗 [LinkedIn Profile](https://www.linkedin.com/in/ayoubhajihashemi)
 - ✉️ Contact: ayoub.hajihashemi@hyperisland.se
 
 ---
